@@ -17,6 +17,7 @@ adservetx.media.net
 adservice.google.com
 adsfs.oppomobile.com
 adtago.s3.amazonaws.com
+adtech.yahooinc.com
 advice-ads.s3.amazonaws.com
 adx.ads.oppomobile.com
 afs.googlesyndication.com
@@ -44,6 +45,7 @@ bdapi-in-ads.realmemobile.com
 books-analytics-events.apple.com
 browser.sentry-cdn.com
 business-api.tiktok.com
+careers.hotjar.com
 cdn-test.mouseflow.com
 cdn.luckyorange.com
 cdn.mouseflow.com
@@ -64,6 +66,7 @@ events3alt.adcolony.com
 extmaps-api.yandex.net
 freshmarketer.com
 fwtracks.freshmarketer.com
+gemini.yahoo.com
 geo.yahoo.com
 google-analytics.com
 grs.hicloud.com
@@ -78,7 +81,9 @@ log.pinterest.com
 logbak.hicloud.com
 logservice.hicloud.com
 logservice1.hicloud.com
+luckyorange.com
 m.doubleclick.net
+media.net
 mediavisor.doubleclick.net
 metrics.data.hicloud.com
 metrics.icloud.com
@@ -86,6 +91,7 @@ metrics.mzstatic.com
 metrics2.data.hicloud.com
 metrika.yandex.ru
 mouseflow.com
+nmetrics.samsung.com
 notes-analytics-events.apple.com
 notify.bugsnag.com
 o2.mouseflow.com
