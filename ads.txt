@@ -1,6 +1,3 @@
-@@*$redirect-rule,domain=d3ward.github.io
-*$3p,domain=d3ward.github.io
-/pagead.js$domain=d3ward.github.io
 ||2mdn.net^
 ||ad.doubleclick.net^
 ||adc3-launch.adcolony.com^
