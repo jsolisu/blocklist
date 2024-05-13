@@ -1,3 +1,4 @@
+2mdn.net
 ad.doubleclick.net
 adc3-launch.adcolony.com
 adfox.yandex.ru
@@ -40,6 +41,7 @@ app.bugsnag.com
 app.getsentry.com
 appmetrica.yandex.ru
 auction.unityads.unity3d.com
+basis.com
 bdapi-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
 books-analytics-events.apple.com
