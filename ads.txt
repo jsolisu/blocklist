@@ -134,4 +134,3 @@
 ||weather-analytics-events.apple.com^
 ||webview.unityads.unity3d.com^
 ||widgets.pinterest.com^
-d3ward.github.io##.textads
